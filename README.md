@@ -7,6 +7,9 @@
 ## Introduction
 Jetmoon is a multi-platform 2D game engine that is based on the Entity-Component-System design. It does not use any scripting language and is programmed in C++, so it is easy to use any external libraries. It uses OpenGL for the graphics, Box2D for the physics and ImGui for the interface of the game engine.
 
+## Platforms:
+It has been tested on Windows and Linux. With linux, you have to use "make" to compile, while en Windows you need to execute the bat file. Both have the same arguments to compile.
+
 ## Features:
 - Pure ECS design
 - Grouping and ordering of systems into timelines
