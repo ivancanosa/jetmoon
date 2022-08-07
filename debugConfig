@@ -1,0 +1,6 @@
+[binaries]
+c = 'clang'
+cpp = 'clang++'
+
+[properties]
+isRelease = false

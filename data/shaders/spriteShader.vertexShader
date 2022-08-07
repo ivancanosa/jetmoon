@@ -1,0 +1,31 @@
+#version 450 core
+layout (location = 0) in vec3 iPos;
+layout (location = 1) in vec4 iColor;
+layout (location = 2) in vec2 iUV;
+layout (location = 3) in float iTextureIndex;
+layout (location = 4) in vec4 iTextureClip;
+layout (location = 5) in float iTilingFactor;
+layout (location = 6) in int iEntity;
+
+uniform mat4 viewTransform;
+uniform mat4 transform;
+
+uniform vec2 texPos;
+uniform vec2 texSize;
+
+out VsOut {
+	vec2 uv;
+	float textureIndex;
+	flat int entity;
+	flat float tilingFactor;
+	vec4 color;
+} vsOut;
+
+void main() {
+	vsOut.textureIndex = iTextureIndex;
+	gl_Position = viewTransform * vec4(iPos, 1.0);
+	vsOut.uv = vec2(iTextureClip[0] + iUV.x*iTextureClip[2], iTextureClip[1] + iUV.y*iTextureClip[3]);
+	vsOut.entity = iEntity;
+	vsOut.tilingFactor = iTilingFactor;
+	vsOut.color = iColor;
+}

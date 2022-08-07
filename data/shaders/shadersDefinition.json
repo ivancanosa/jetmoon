@@ -1,0 +1,132 @@
+[
+  {
+    "fragmentPath": "data/shaders/particleShader.fs",
+    "geometryPath": "data/shaders/particleShader.gs",
+    "id": "particlesShader",
+    "vertexPath": "data/shaders/particleShader.vs"
+  },
+  {
+    "fragmentPath": "data/shaders/trailShader.fs",
+    "geometryPath": "data/shaders/trailShader.gs",
+    "id": "trailShader",
+    "vertexPath": "data/shaders/trailShader.vs"
+  },
+  {
+    "fragmentPath": "data/shaders/spriteShader.fragmentShader",
+    "geometryPath": "data/shaders/test.geom",
+    "id": "spriteShader",
+    "vertexPath": "data/shaders/spriteShader.vertexShader"
+  },
+  {
+    "fragmentPath": "data/shaders/tilemapShader.frag",
+    "id": "tilemapShader",
+    "vertexPath": "data/shaders/tilemapShader.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/lightShader.frag",
+    "id": "lightShader",
+    "vertexPath": "data/shaders/lightShader.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/renderToTexture.fragmentShader",
+    "id": "renderToTexture",
+    "vertexPath": "data/shaders/renderToTexture.vertexShader"
+  },
+  {
+    "fragmentPath": "data/shaders/lineShader.fs",
+    "geometryPath": "data/shaders/lineShader.gs",
+    "id": "lineShader",
+    "vertexPath": "data/shaders/lineShader.vs"
+  },
+  {
+    "fragmentPath": "data/shaders/debugLine.fs",
+    "id": "debugLineShader",
+    "vertexPath": "data/shaders/debugLine.vs"
+  },
+  {
+    "fragmentPath": "data/shaders/splineShader.fs",
+    "geometryPath": "data/shaders/splineShader.gs",
+    "id": "splineShader",
+    "vertexPath": "data/shaders/splineShader.vs"
+  },
+  {
+    "fragmentPath": "data/shaders/renderToWindow.frag",
+    "id": "renderToWindow",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/invertColor.frag",
+    "id": "invertColor",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/gammaCorrection.frag",
+    "id": "gammaCorrection",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/toneMapping.frag",
+    "id": "toneMapping",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/colorCorrection.frag",
+    "id": "colorCorrection",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/colorMixer.frag",
+    "id": "colorMixer",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/chromaticAberration.frag",
+    "id": "chromaticAberration",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/vignette.frag",
+    "id": "vignette",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/perlinNoise.frag",
+    "id": "perlinNoise",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/cellularNoise.frag",
+    "id": "cellularNoise",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/addTexture.frag",
+    "id": "addTexture",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/maskTexture.frag",
+    "id": "maskTexture",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/colorGradient.frag",
+    "id": "colorGradient",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/step.frag",
+    "id": "step",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/bloom0.frag",
+    "id": "bloom0",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  },
+  {
+    "fragmentPath": "data/shaders/bloom1.frag",
+    "id": "bloom1",
+    "vertexPath": "data/shaders/renderToWindow.vert"
+  }
+]

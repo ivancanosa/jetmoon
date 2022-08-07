@@ -1,0 +1,23 @@
+{
+  "frameHeight": 32,
+  "frameWidth": 32,
+  "id": "circleSpritesheet",
+  "margin": 0,
+  "padding": 0,
+  "subAnimations": [
+    [
+      "a0",
+      0,
+      6,
+      1.0,
+      true
+    ],
+    [
+      "a1",
+      0,
+      3,
+      0.20000000298023224,
+      true
+    ]
+  ]
+}

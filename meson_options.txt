@@ -1,0 +1,1 @@
+option('isRelease', type : 'boolean', value : false)

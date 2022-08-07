@@ -1,0 +1,72 @@
+TODO: libs
+	add dll for fuzzylite
+	add dll for clingo
+
+TODO:
+	Automatic texture atlas
+	Normal map support
+	Localization
+	Fix that the gizmos appear in front of dialogs
+	Undo/redo of the editor
+	sleep/awake entities
+	Good circle rendering
+	Paralelize systems
+	Scene transations
+	Console log for the editor
+	shader to render 3D meshes as pixel art
+	frustrum culling
+
+	RigidBody2D polygon shape
+	Reordening entities on the entity hierarchy panel
+	Package all data files into a single file for production release of the game
+	Rich camera component with a divertity of functions
+
+
+	Platformer Collision component to detect collision to floor, walls or ceil
+
+
+
+	===Editor
+
+	json editor for scenes and prefabs:
+		*Remove field for each component of type T
+		*Add a field for each component of type T
+		*Remove all components of type T
+
+	It should be posible to modify entity's component properties with gizmos. Idea: A int has 32 bits, divide that in 3 zones for: Entity, Component and Property.
+	Buttons for collapse all and open all entities in hierarchy panel
+	
+	Templated Batch rendered with instanciating capabilities
+
+IMPORTANT FEATURES:
+	Game class to facilitate high level integration
+	Move ServiceContext inicialization from its contructor to a high level Game class
+	Save system for the game
+	Be capable of make UI from the game programmer perspective
+
+Done:
+	Tilemaps and give it a hitbox
+	Animation Controller editor
+	Mantain kinematic bodies awake when moved by transform
+	Audio system
+	Activate/Deactivate fixture sensors on demand
+	Ctrl+G Ctrl+U to group and degroup entities
+	Correct camera system
+	Better Input System
+	A better Textures interface
+	Divide a Tilemap in chunks so there is no limit to their size
+	A better shaders interface
+	Being capable of compile on linux and windows without any efford
+	Post-Processing
+	Perlin Noise
+	Positional audio/ Audio groups.
+	Integrate nuklear
+	Configuration Struct
+	It should be posible to move with gizmos all selected entities at the same time. 
+	Light system 
+	Statistics: Draw calls, quads rendered, lines rendered, circles rendered, textures uses, fps, particles count, entities, 
+	Artificial inteligence(fuzzy logic, clingo, prolog, A*, pathfinding)
+	RigidBody2D collision visualization on the editor
+	Automatic save of the scene to not lose progress
+	Use a geometry shader for the particles so it is necesary 4 times less the data
+	Allow change of scene in debugGUI play

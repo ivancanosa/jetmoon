@@ -1,0 +1,7 @@
+builddir/*
+.cache/*
+release/*
+releasebuild/*
+log
+configDS.json
+

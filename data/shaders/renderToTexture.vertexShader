@@ -1,0 +1,17 @@
+#version 330 core
+layout (location = 0) in vec3 iPos;
+layout (location = 1) in vec3 iColor;
+layout (location = 2) in vec2 iUV;
+
+uniform mat4 transform;
+uniform float originRect[4]; // x, y, width, height
+
+out vec2 uv;
+
+
+void main() {
+    gl_Position =  transform * vec4(iPos, 1.0);
+    uv = vec2(originRect[0] + iUV.x*originRect[2], originRect[1] + iUV.y*originRect[3]);
+}
+
+
