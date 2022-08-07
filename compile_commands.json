@@ -1,0 +1,812 @@
+[
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_broad_phase.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_broad_phase.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_broad_phase.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_broad_phase.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_broad_phase.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_broad_phase.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_chain_shape.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_chain_shape.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_chain_shape.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_chain_shape.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_chain_shape.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_chain_shape.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_circle_shape.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_circle_shape.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_circle_shape.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_circle_shape.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_circle_shape.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_circle_shape.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_circle.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_circle.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_circle.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_collide_circle.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_collide_circle.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_circle.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_edge.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_edge.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_edge.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_collide_edge.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_collide_edge.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_edge.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_polygon.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_polygon.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_polygon.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_collide_polygon.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_collide_polygon.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collide_polygon.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collision.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collision.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collision.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_collision.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_collision.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_collision.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_distance.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_distance.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_distance.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_distance.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_distance.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_distance.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_dynamic_tree.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_dynamic_tree.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_dynamic_tree.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_dynamic_tree.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_dynamic_tree.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_dynamic_tree.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_edge_shape.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_edge_shape.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_edge_shape.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_edge_shape.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_edge_shape.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_edge_shape.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_polygon_shape.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_polygon_shape.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_polygon_shape.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_polygon_shape.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_polygon_shape.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_polygon_shape.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_time_of_impact.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_time_of_impact.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_time_of_impact.cpp.o -c ../subprojects/box2d-2.4.1/src/collision/b2_time_of_impact.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/collision/b2_time_of_impact.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/collision_b2_time_of_impact.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_block_allocator.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_block_allocator.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_block_allocator.cpp.o -c ../subprojects/box2d-2.4.1/src/common/b2_block_allocator.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/common/b2_block_allocator.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_block_allocator.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_draw.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_draw.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_draw.cpp.o -c ../subprojects/box2d-2.4.1/src/common/b2_draw.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/common/b2_draw.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_draw.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_math.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_math.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_math.cpp.o -c ../subprojects/box2d-2.4.1/src/common/b2_math.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/common/b2_math.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_math.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_settings.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_settings.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_settings.cpp.o -c ../subprojects/box2d-2.4.1/src/common/b2_settings.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/common/b2_settings.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_settings.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_stack_allocator.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_stack_allocator.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_stack_allocator.cpp.o -c ../subprojects/box2d-2.4.1/src/common/b2_stack_allocator.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/common/b2_stack_allocator.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_stack_allocator.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_timer.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_timer.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_timer.cpp.o -c ../subprojects/box2d-2.4.1/src/common/b2_timer.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/common/b2_timer.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/common_b2_timer.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_body.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_body.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_body.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_body.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_body.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_body.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_chain_circle_contact.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_chain_circle_contact.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_chain_circle_contact.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_chain_circle_contact.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_chain_circle_contact.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_chain_circle_contact.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_chain_polygon_contact.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_chain_polygon_contact.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_chain_polygon_contact.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_chain_polygon_contact.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_chain_polygon_contact.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_chain_polygon_contact.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_circle_contact.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_circle_contact.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_circle_contact.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_circle_contact.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_circle_contact.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_circle_contact.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_contact.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_contact.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact_manager.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact_manager.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact_manager.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_contact_manager.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_contact_manager.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact_manager.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact_solver.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact_solver.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact_solver.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_contact_solver.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_contact_solver.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_contact_solver.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_distance_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_distance_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_distance_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_distance_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_distance_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_distance_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_edge_circle_contact.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_edge_circle_contact.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_edge_circle_contact.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_edge_circle_contact.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_edge_circle_contact.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_edge_circle_contact.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_edge_polygon_contact.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_edge_polygon_contact.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_edge_polygon_contact.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_edge_polygon_contact.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_edge_polygon_contact.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_edge_polygon_contact.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_fixture.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_fixture.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_fixture.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_fixture.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_fixture.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_fixture.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_friction_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_friction_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_friction_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_friction_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_friction_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_friction_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_gear_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_gear_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_gear_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_gear_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_gear_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_gear_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_island.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_island.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_island.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_island.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_island.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_island.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_motor_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_motor_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_motor_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_motor_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_motor_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_motor_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_mouse_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_mouse_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_mouse_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_mouse_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_mouse_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_mouse_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_polygon_circle_contact.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_polygon_circle_contact.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_polygon_circle_contact.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_polygon_circle_contact.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_polygon_circle_contact.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_polygon_circle_contact.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_polygon_contact.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_polygon_contact.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_polygon_contact.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_polygon_contact.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_polygon_contact.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_polygon_contact.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_prismatic_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_prismatic_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_prismatic_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_prismatic_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_prismatic_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_prismatic_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_pulley_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_pulley_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_pulley_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_pulley_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_pulley_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_pulley_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_revolute_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_revolute_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_revolute_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_revolute_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_revolute_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_revolute_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_weld_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_weld_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_weld_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_weld_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_weld_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_weld_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_wheel_joint.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_wheel_joint.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_wheel_joint.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_wheel_joint.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_wheel_joint.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_wheel_joint.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_world.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_world.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_world.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_world.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_world.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_world.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_world_callbacks.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_world_callbacks.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_world_callbacks.cpp.o -c ../subprojects/box2d-2.4.1/src/dynamics/b2_world_callbacks.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/dynamics/b2_world_callbacks.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/dynamics_b2_world_callbacks.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Isubprojects/box2d-2.4.1/src/libbox2d.a.p -Isubprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/src -I../subprojects/box2d-2.4.1/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -Wno-everything -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ subprojects/box2d-2.4.1/src/libbox2d.a.p/rope_b2_rope.cpp.o -MF subprojects/box2d-2.4.1/src/libbox2d.a.p/rope_b2_rope.cpp.o.d -o subprojects/box2d-2.4.1/src/libbox2d.a.p/rope_b2_rope.cpp.o -c ../subprojects/box2d-2.4.1/src/rope/b2_rope.cpp",
+    "file": "../subprojects/box2d-2.4.1/src/rope/b2_rope.cpp",
+    "output": "subprojects/box2d-2.4.1/src/libbox2d.a.p/rope_b2_rope.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libstb_image.a.p -Ijetmoon -I../jetmoon -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ jetmoon/libstb_image.a.p/utils_stb_image.cpp.o -MF jetmoon/libstb_image.a.p/utils_stb_image.cpp.o.d -o jetmoon/libstb_image.a.p/utils_stb_image.cpp.o -c ../jetmoon/utils/stb_image.cpp",
+    "file": "../jetmoon/utils/stb_image.cpp",
+    "output": "jetmoon/libstb_image.a.p/utils_stb_image.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjson.a.p -Ijetmoon -I../jetmoon -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ jetmoon/libjson.a.p/utils_json.cpp.o -MF jetmoon/libjson.a.p/utils_json.cpp.o.d -o jetmoon/libjson.a.p/utils_json.cpp.o -c ../jetmoon/utils/json.cpp",
+    "file": "../jetmoon/utils/json.cpp",
+    "output": "jetmoon/libjson.a.p/utils_json.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libtileson.a.p -Ijetmoon -I../jetmoon -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -MD -MQ jetmoon/libtileson.a.p/utils_tileson.cpp.o -MF jetmoon/libtileson.a.p/utils_tileson.cpp.o.d -o jetmoon/libtileson.a.p/utils_tileson.cpp.o -c ../jetmoon/utils/tileson.cpp",
+    "file": "../jetmoon/utils/tileson.cpp",
+    "output": "jetmoon/libtileson.a.p/utils_tileson.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libminiaudio.a.p -Ijetmoon -I../jetmoon -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -pthread -MD -MQ jetmoon/libminiaudio.a.p/utils_miniaudio.cpp.o -MF jetmoon/libminiaudio.a.p/utils_miniaudio.cpp.o.d -o jetmoon/libminiaudio.a.p/utils_miniaudio.cpp.o -c ../jetmoon/utils/miniaudio.cpp",
+    "file": "../jetmoon/utils/miniaudio.cpp",
+    "output": "jetmoon/libminiaudio.a.p/utils_miniaudio.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glew-2.1.0/libGLEW.a.p -Isubprojects/glew-2.1.0 -I../subprojects/glew-2.1.0 -I../subprojects/glew-2.1.0/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -ansi -W -Wcast-qual -fno-stack-protector -MD -MQ subprojects/glew-2.1.0/libGLEW.a.p/src_glew.c.o -MF subprojects/glew-2.1.0/libGLEW.a.p/src_glew.c.o.d -o subprojects/glew-2.1.0/libGLEW.a.p/src_glew.c.o -c ../subprojects/glew-2.1.0/src/glew.c",
+    "file": "../subprojects/glew-2.1.0/src/glew.c",
+    "output": "subprojects/glew-2.1.0/libGLEW.a.p/src_glew.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/deps/libglad.a.p -Isubprojects/glfw/deps -I../subprojects/glfw/deps -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -MD -MQ subprojects/glfw/deps/libglad.a.p/glad.c.o -MF subprojects/glfw/deps/libglad.a.p/glad.c.o.d -o subprojects/glfw/deps/libglad.a.p/glad.c.o -c ../subprojects/glfw/deps/glad.c",
+    "file": "../subprojects/glfw/deps/glad.c",
+    "output": "subprojects/glfw/deps/libglad.a.p/glad.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/deps/libgetopt.a.p -Isubprojects/glfw/deps -I../subprojects/glfw/deps -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -MD -MQ subprojects/glfw/deps/libgetopt.a.p/getopt.c.o -MF subprojects/glfw/deps/libgetopt.a.p/getopt.c.o.d -o subprojects/glfw/deps/libgetopt.a.p/getopt.c.o -c ../subprojects/glfw/deps/getopt.c",
+    "file": "../subprojects/glfw/deps/getopt.c",
+    "output": "subprojects/glfw/deps/libgetopt.a.p/getopt.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/deps/libtinycthread.a.p -Isubprojects/glfw/deps -I../subprojects/glfw/deps -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -MD -MQ subprojects/glfw/deps/libtinycthread.a.p/tinycthread.c.o -MF subprojects/glfw/deps/libtinycthread.a.p/tinycthread.c.o.d -o subprojects/glfw/deps/libtinycthread.a.p/tinycthread.c.o -c ../subprojects/glfw/deps/tinycthread.c",
+    "file": "../subprojects/glfw/deps/tinycthread.c",
+    "output": "subprojects/glfw/deps/libtinycthread.a.p/tinycthread.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/context.c.o -MF subprojects/glfw/src/libglfw.a.p/context.c.o.d -o subprojects/glfw/src/libglfw.a.p/context.c.o -c ../subprojects/glfw/src/context.c",
+    "file": "../subprojects/glfw/src/context.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/context.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/init.c.o -MF subprojects/glfw/src/libglfw.a.p/init.c.o.d -o subprojects/glfw/src/libglfw.a.p/init.c.o -c ../subprojects/glfw/src/init.c",
+    "file": "../subprojects/glfw/src/init.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/init.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/input.c.o -MF subprojects/glfw/src/libglfw.a.p/input.c.o.d -o subprojects/glfw/src/libglfw.a.p/input.c.o -c ../subprojects/glfw/src/input.c",
+    "file": "../subprojects/glfw/src/input.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/input.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/monitor.c.o -MF subprojects/glfw/src/libglfw.a.p/monitor.c.o.d -o subprojects/glfw/src/libglfw.a.p/monitor.c.o -c ../subprojects/glfw/src/monitor.c",
+    "file": "../subprojects/glfw/src/monitor.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/monitor.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/vulkan.c.o -MF subprojects/glfw/src/libglfw.a.p/vulkan.c.o.d -o subprojects/glfw/src/libglfw.a.p/vulkan.c.o -c ../subprojects/glfw/src/vulkan.c",
+    "file": "../subprojects/glfw/src/vulkan.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/vulkan.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/window.c.o -MF subprojects/glfw/src/libglfw.a.p/window.c.o.d -o subprojects/glfw/src/libglfw.a.p/window.c.o -c ../subprojects/glfw/src/window.c",
+    "file": "../subprojects/glfw/src/window.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/window.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/posix_thread.c.o -MF subprojects/glfw/src/libglfw.a.p/posix_thread.c.o.d -o subprojects/glfw/src/libglfw.a.p/posix_thread.c.o -c ../subprojects/glfw/src/posix_thread.c",
+    "file": "../subprojects/glfw/src/posix_thread.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/posix_thread.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/linux_joystick.c.o -MF subprojects/glfw/src/libglfw.a.p/linux_joystick.c.o.d -o subprojects/glfw/src/libglfw.a.p/linux_joystick.c.o -c ../subprojects/glfw/src/linux_joystick.c",
+    "file": "../subprojects/glfw/src/linux_joystick.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/linux_joystick.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/posix_time.c.o -MF subprojects/glfw/src/libglfw.a.p/posix_time.c.o.d -o subprojects/glfw/src/libglfw.a.p/posix_time.c.o -c ../subprojects/glfw/src/posix_time.c",
+    "file": "../subprojects/glfw/src/posix_time.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/posix_time.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/osmesa_context.c.o -MF subprojects/glfw/src/libglfw.a.p/osmesa_context.c.o.d -o subprojects/glfw/src/libglfw.a.p/osmesa_context.c.o -c ../subprojects/glfw/src/osmesa_context.c",
+    "file": "../subprojects/glfw/src/osmesa_context.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/osmesa_context.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/egl_context.c.o -MF subprojects/glfw/src/libglfw.a.p/egl_context.c.o.d -o subprojects/glfw/src/libglfw.a.p/egl_context.c.o -c ../subprojects/glfw/src/egl_context.c",
+    "file": "../subprojects/glfw/src/egl_context.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/egl_context.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/glx_context.c.o -MF subprojects/glfw/src/libglfw.a.p/glx_context.c.o.d -o subprojects/glfw/src/libglfw.a.p/glx_context.c.o -c ../subprojects/glfw/src/glx_context.c",
+    "file": "../subprojects/glfw/src/glx_context.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/glx_context.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/x11_init.c.o -MF subprojects/glfw/src/libglfw.a.p/x11_init.c.o.d -o subprojects/glfw/src/libglfw.a.p/x11_init.c.o -c ../subprojects/glfw/src/x11_init.c",
+    "file": "../subprojects/glfw/src/x11_init.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/x11_init.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/x11_monitor.c.o -MF subprojects/glfw/src/libglfw.a.p/x11_monitor.c.o.d -o subprojects/glfw/src/libglfw.a.p/x11_monitor.c.o -c ../subprojects/glfw/src/x11_monitor.c",
+    "file": "../subprojects/glfw/src/x11_monitor.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/x11_monitor.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/x11_window.c.o -MF subprojects/glfw/src/libglfw.a.p/x11_window.c.o.d -o subprojects/glfw/src/libglfw.a.p/x11_window.c.o -c ../subprojects/glfw/src/x11_window.c",
+    "file": "../subprojects/glfw/src/x11_window.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/x11_window.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang -Isubprojects/glfw/src/libglfw.a.p -Isubprojects/glfw/src -I../subprojects/glfw/src -I../subprojects/glfw/include -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -fPIC -pthread -D_GLFW_USE_CONFIG_H -MD -MQ subprojects/glfw/src/libglfw.a.p/xkb_unicode.c.o -MF subprojects/glfw/src/libglfw.a.p/xkb_unicode.c.o.d -o subprojects/glfw/src/libglfw.a.p/xkb_unicode.c.o -c ../subprojects/glfw/src/xkb_unicode.c",
+    "file": "../subprojects/glfw/src/xkb_unicode.c",
+    "output": "subprojects/glfw/src/libglfw.a.p/xkb_unicode.c.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libnuklear.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libnuklear.a.p/utils_nuklear.cpp.o -MF jetmoon/libnuklear.a.p/utils_nuklear.cpp.o.d -o jetmoon/libnuklear.a.p/utils_nuklear.cpp.o -c ../jetmoon/utils/nuklear.cpp",
+    "file": "../jetmoon/utils/nuklear.cpp",
+    "output": "jetmoon/libnuklear.a.p/utils_nuklear.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/configShaderDSVariant.cpp.o -MF jetmoon/libjetmoon.a.p/configShaderDSVariant.cpp.o.d -o jetmoon/libjetmoon.a.p/configShaderDSVariant.cpp.o -c ../jetmoon/configShaderDSVariant.cpp",
+    "file": "../jetmoon/configShaderDSVariant.cpp",
+    "output": "jetmoon/libjetmoon.a.p/configShaderDSVariant.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/commonStructures_Navmesh.cpp.o -MF jetmoon/libjetmoon.a.p/commonStructures_Navmesh.cpp.o.d -o jetmoon/libjetmoon.a.p/commonStructures_Navmesh.cpp.o -c ../jetmoon/commonStructures/Navmesh.cpp",
+    "file": "../jetmoon/commonStructures/Navmesh.cpp",
+    "output": "jetmoon/libjetmoon.a.p/commonStructures_Navmesh.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/commonStructures_Camera.cpp.o -MF jetmoon/libjetmoon.a.p/commonStructures_Camera.cpp.o.d -o jetmoon/libjetmoon.a.p/commonStructures_Camera.cpp.o -c ../jetmoon/commonStructures/Camera.cpp",
+    "file": "../jetmoon/commonStructures/Camera.cpp",
+    "output": "jetmoon/libjetmoon.a.p/commonStructures_Camera.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/commonStructures_EditorConfig.cpp.o -MF jetmoon/libjetmoon.a.p/commonStructures_EditorConfig.cpp.o.d -o jetmoon/libjetmoon.a.p/commonStructures_EditorConfig.cpp.o -c ../jetmoon/commonStructures/EditorConfig.cpp",
+    "file": "../jetmoon/commonStructures/EditorConfig.cpp",
+    "output": "jetmoon/libjetmoon.a.p/commonStructures_EditorConfig.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/core_GameLoop.cpp.o -MF jetmoon/libjetmoon.a.p/core_GameLoop.cpp.o.d -o jetmoon/libjetmoon.a.p/core_GameLoop.cpp.o -c ../jetmoon/core/GameLoop.cpp",
+    "file": "../jetmoon/core/GameLoop.cpp",
+    "output": "jetmoon/libjetmoon.a.p/core_GameLoop.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/core_WorldManager.cpp.o -MF jetmoon/libjetmoon.a.p/core_WorldManager.cpp.o.d -o jetmoon/libjetmoon.a.p/core_WorldManager.cpp.o -c ../jetmoon/core/WorldManager.cpp",
+    "file": "../jetmoon/core/WorldManager.cpp",
+    "output": "jetmoon/libjetmoon.a.p/core_WorldManager.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/core_Time.cpp.o -MF jetmoon/libjetmoon.a.p/core_Time.cpp.o.d -o jetmoon/libjetmoon.a.p/core_Time.cpp.o -c ../jetmoon/core/Time.cpp",
+    "file": "../jetmoon/core/Time.cpp",
+    "output": "jetmoon/libjetmoon.a.p/core_Time.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/core_definitions.cpp.o -MF jetmoon/libjetmoon.a.p/core_definitions.cpp.o.d -o jetmoon/libjetmoon.a.p/core_definitions.cpp.o -c ../jetmoon/core/definitions.cpp",
+    "file": "../jetmoon/core/definitions.cpp",
+    "output": "jetmoon/libjetmoon.a.p/core_definitions.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/core_interpolation.cpp.o -MF jetmoon/libjetmoon.a.p/core_interpolation.cpp.o.d -o jetmoon/libjetmoon.a.p/core_interpolation.cpp.o -c ../jetmoon/core/interpolation.cpp",
+    "file": "../jetmoon/core/interpolation.cpp",
+    "output": "jetmoon/libjetmoon.a.p/core_interpolation.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/core_SceneSerializer.cpp.o -MF jetmoon/libjetmoon.a.p/core_SceneSerializer.cpp.o.d -o jetmoon/libjetmoon.a.p/core_SceneSerializer.cpp.o -c ../jetmoon/core/SceneSerializer.cpp",
+    "file": "../jetmoon/core/SceneSerializer.cpp",
+    "output": "jetmoon/libjetmoon.a.p/core_SceneSerializer.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/core_WorldContextOperations.cpp.o -MF jetmoon/libjetmoon.a.p/core_WorldContextOperations.cpp.o.d -o jetmoon/libjetmoon.a.p/core_WorldContextOperations.cpp.o -c ../jetmoon/core/WorldContextOperations.cpp",
+    "file": "../jetmoon/core/WorldContextOperations.cpp",
+    "output": "jetmoon/libjetmoon.a.p/core_WorldContextOperations.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/core_ServiceContext.cpp.o -MF jetmoon/libjetmoon.a.p/core_ServiceContext.cpp.o.d -o jetmoon/libjetmoon.a.p/core_ServiceContext.cpp.o -c ../jetmoon/core/ServiceContext.cpp",
+    "file": "../jetmoon/core/ServiceContext.cpp",
+    "output": "jetmoon/libjetmoon.a.p/core_ServiceContext.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/utils_marchingSquares.cpp.o -MF jetmoon/libjetmoon.a.p/utils_marchingSquares.cpp.o.d -o jetmoon/libjetmoon.a.p/utils_marchingSquares.cpp.o -c ../jetmoon/utils/marchingSquares.cpp",
+    "file": "../jetmoon/utils/marchingSquares.cpp",
+    "output": "jetmoon/libjetmoon.a.p/utils_marchingSquares.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/utils_GLUtils.cpp.o -MF jetmoon/libjetmoon.a.p/utils_GLUtils.cpp.o.d -o jetmoon/libjetmoon.a.p/utils_GLUtils.cpp.o -c ../jetmoon/utils/GLUtils.cpp",
+    "file": "../jetmoon/utils/GLUtils.cpp",
+    "output": "jetmoon/libjetmoon.a.p/utils_GLUtils.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/utils_Stopwatch.cpp.o -MF jetmoon/libjetmoon.a.p/utils_Stopwatch.cpp.o.d -o jetmoon/libjetmoon.a.p/utils_Stopwatch.cpp.o -c ../jetmoon/utils/Stopwatch.cpp",
+    "file": "../jetmoon/utils/Stopwatch.cpp",
+    "output": "jetmoon/libjetmoon.a.p/utils_Stopwatch.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/ImGuizmo_ImGuizmo.cpp.o -MF jetmoon/libjetmoon.a.p/ImGuizmo_ImGuizmo.cpp.o.d -o jetmoon/libjetmoon.a.p/ImGuizmo_ImGuizmo.cpp.o -c ../jetmoon/ImGuizmo/ImGuizmo.cpp",
+    "file": "../jetmoon/ImGuizmo/ImGuizmo.cpp",
+    "output": "jetmoon/libjetmoon.a.p/ImGuizmo_ImGuizmo.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/opengl_Framebuffer.cpp.o -MF jetmoon/libjetmoon.a.p/opengl_Framebuffer.cpp.o.d -o jetmoon/libjetmoon.a.p/opengl_Framebuffer.cpp.o -c ../jetmoon/opengl/Framebuffer.cpp",
+    "file": "../jetmoon/opengl/Framebuffer.cpp",
+    "output": "jetmoon/libjetmoon.a.p/opengl_Framebuffer.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/opengl_Shader.cpp.o -MF jetmoon/libjetmoon.a.p/opengl_Shader.cpp.o.d -o jetmoon/libjetmoon.a.p/opengl_Shader.cpp.o -c ../jetmoon/opengl/Shader.cpp",
+    "file": "../jetmoon/opengl/Shader.cpp",
+    "output": "jetmoon/libjetmoon.a.p/opengl_Shader.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/opengl_BatchRenderer.cpp.o -MF jetmoon/libjetmoon.a.p/opengl_BatchRenderer.cpp.o.d -o jetmoon/libjetmoon.a.p/opengl_BatchRenderer.cpp.o -c ../jetmoon/opengl/BatchRenderer.cpp",
+    "file": "../jetmoon/opengl/BatchRenderer.cpp",
+    "output": "jetmoon/libjetmoon.a.p/opengl_BatchRenderer.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/opengl_PostProcessingHelper.cpp.o -MF jetmoon/libjetmoon.a.p/opengl_PostProcessingHelper.cpp.o.d -o jetmoon/libjetmoon.a.p/opengl_PostProcessingHelper.cpp.o -c ../jetmoon/opengl/PostProcessingHelper.cpp",
+    "file": "../jetmoon/opengl/PostProcessingHelper.cpp",
+    "output": "jetmoon/libjetmoon.a.p/opengl_PostProcessingHelper.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/services_RenderContext.cpp.o -MF jetmoon/libjetmoon.a.p/services_RenderContext.cpp.o.d -o jetmoon/libjetmoon.a.p/services_RenderContext.cpp.o -c ../jetmoon/services/RenderContext.cpp",
+    "file": "../jetmoon/services/RenderContext.cpp",
+    "output": "jetmoon/libjetmoon.a.p/services_RenderContext.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/services_ShaderLoader.cpp.o -MF jetmoon/libjetmoon.a.p/services_ShaderLoader.cpp.o.d -o jetmoon/libjetmoon.a.p/services_ShaderLoader.cpp.o -c ../jetmoon/services/ShaderLoader.cpp",
+    "file": "../jetmoon/services/ShaderLoader.cpp",
+    "output": "jetmoon/libjetmoon.a.p/services_ShaderLoader.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/services_Config.cpp.o -MF jetmoon/libjetmoon.a.p/services_Config.cpp.o.d -o jetmoon/libjetmoon.a.p/services_Config.cpp.o -c ../jetmoon/services/Config.cpp",
+    "file": "../jetmoon/services/Config.cpp",
+    "output": "jetmoon/libjetmoon.a.p/services_Config.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/services_EventService.cpp.o -MF jetmoon/libjetmoon.a.p/services_EventService.cpp.o.d -o jetmoon/libjetmoon.a.p/services_EventService.cpp.o -c ../jetmoon/services/EventService.cpp",
+    "file": "../jetmoon/services/EventService.cpp",
+    "output": "jetmoon/libjetmoon.a.p/services_EventService.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/services_Renderer2D.cpp.o -MF jetmoon/libjetmoon.a.p/services_Renderer2D.cpp.o.d -o jetmoon/libjetmoon.a.p/services_Renderer2D.cpp.o -c ../jetmoon/services/Renderer2D.cpp",
+    "file": "../jetmoon/services/Renderer2D.cpp",
+    "output": "jetmoon/libjetmoon.a.p/services_Renderer2D.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_RenderClear.cpp.o -MF jetmoon/libjetmoon.a.p/systems_RenderClear.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_RenderClear.cpp.o -c ../jetmoon/systems/RenderClear.cpp",
+    "file": "../jetmoon/systems/RenderClear.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_RenderClear.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_RenderDisplay.cpp.o -MF jetmoon/libjetmoon.a.p/systems_RenderDisplay.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_RenderDisplay.cpp.o -c ../jetmoon/systems/RenderDisplay.cpp",
+    "file": "../jetmoon/systems/RenderDisplay.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_RenderDisplay.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_RenderSprite.cpp.o -MF jetmoon/libjetmoon.a.p/systems_RenderSprite.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_RenderSprite.cpp.o -c ../jetmoon/systems/RenderSprite.cpp",
+    "file": "../jetmoon/systems/RenderSprite.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_RenderSprite.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_RenderAnimation.cpp.o -MF jetmoon/libjetmoon.a.p/systems_RenderAnimation.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_RenderAnimation.cpp.o -c ../jetmoon/systems/RenderAnimation.cpp",
+    "file": "../jetmoon/systems/RenderAnimation.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_RenderAnimation.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_TrailSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_TrailSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_TrailSystem.cpp.o -c ../jetmoon/systems/TrailSystem.cpp",
+    "file": "../jetmoon/systems/TrailSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_TrailSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_Light2DSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_Light2DSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_Light2DSystem.cpp.o -c ../jetmoon/systems/Light2DSystem.cpp",
+    "file": "../jetmoon/systems/Light2DSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_Light2DSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_CameraSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_CameraSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_CameraSystem.cpp.o -c ../jetmoon/systems/CameraSystem.cpp",
+    "file": "../jetmoon/systems/CameraSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_CameraSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_DebugPhysics.cpp.o -MF jetmoon/libjetmoon.a.p/systems_DebugPhysics.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_DebugPhysics.cpp.o -c ../jetmoon/systems/DebugPhysics.cpp",
+    "file": "../jetmoon/systems/DebugPhysics.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_DebugPhysics.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_TilemapSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_TilemapSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_TilemapSystem.cpp.o -c ../jetmoon/systems/TilemapSystem.cpp",
+    "file": "../jetmoon/systems/TilemapSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_TilemapSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_DebugGUI.cpp.o -MF jetmoon/libjetmoon.a.p/systems_DebugGUI.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_DebugGUI.cpp.o -c ../jetmoon/systems/DebugGUI.cpp",
+    "file": "../jetmoon/systems/DebugGUI.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_DebugGUI.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_ParticleSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_ParticleSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_ParticleSystem.cpp.o -c ../jetmoon/systems/ParticleSystem.cpp",
+    "file": "../jetmoon/systems/ParticleSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_ParticleSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_Physics.cpp.o -MF jetmoon/libjetmoon.a.p/systems_Physics.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_Physics.cpp.o -c ../jetmoon/systems/Physics.cpp",
+    "file": "../jetmoon/systems/Physics.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_Physics.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_AudioSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_AudioSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_AudioSystem.cpp.o -c ../jetmoon/systems/AudioSystem.cpp",
+    "file": "../jetmoon/systems/AudioSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_AudioSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_PostProcessingSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_PostProcessingSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_PostProcessingSystem.cpp.o -c ../jetmoon/systems/PostProcessingSystem.cpp",
+    "file": "../jetmoon/systems/PostProcessingSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_PostProcessingSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_VolumetricPostProcessingSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_VolumetricPostProcessingSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_VolumetricPostProcessingSystem.cpp.o -c ../jetmoon/systems/VolumetricPostProcessingSystem.cpp",
+    "file": "../jetmoon/systems/VolumetricPostProcessingSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_VolumetricPostProcessingSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_ProceduralTextureSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_ProceduralTextureSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_ProceduralTextureSystem.cpp.o -c ../jetmoon/systems/ProceduralTextureSystem.cpp",
+    "file": "../jetmoon/systems/ProceduralTextureSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_ProceduralTextureSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_PrefabSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_PrefabSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_PrefabSystem.cpp.o -c ../jetmoon/systems/PrefabSystem.cpp",
+    "file": "../jetmoon/systems/PrefabSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_PrefabSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_NavmeshSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_NavmeshSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_NavmeshSystem.cpp.o -c ../jetmoon/systems/NavmeshSystem.cpp",
+    "file": "../jetmoon/systems/NavmeshSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_NavmeshSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/systems_SaveEntityMapSystem.cpp.o -MF jetmoon/libjetmoon.a.p/systems_SaveEntityMapSystem.cpp.o.d -o jetmoon/libjetmoon.a.p/systems_SaveEntityMapSystem.cpp.o -c ../jetmoon/systems/SaveEntityMapSystem.cpp",
+    "file": "../jetmoon/systems/SaveEntityMapSystem.cpp",
+    "output": "jetmoon/libjetmoon.a.p/systems_SaveEntityMapSystem.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/components_Transform.cpp.o -MF jetmoon/libjetmoon.a.p/components_Transform.cpp.o.d -o jetmoon/libjetmoon.a.p/components_Transform.cpp.o -c ../jetmoon/components/Transform.cpp",
+    "file": "../jetmoon/components/Transform.cpp",
+    "output": "jetmoon/libjetmoon.a.p/components_Transform.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/gameEngineGUI_imguiComponents.cpp.o -MF jetmoon/libjetmoon.a.p/gameEngineGUI_imguiComponents.cpp.o.d -o jetmoon/libjetmoon.a.p/gameEngineGUI_imguiComponents.cpp.o -c ../jetmoon/gameEngineGUI/imguiComponents.cpp",
+    "file": "../jetmoon/gameEngineGUI/imguiComponents.cpp",
+    "output": "jetmoon/libjetmoon.a.p/gameEngineGUI_imguiComponents.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/gameEngineGUI_EngineStatisticsImgui.cpp.o -MF jetmoon/libjetmoon.a.p/gameEngineGUI_EngineStatisticsImgui.cpp.o.d -o jetmoon/libjetmoon.a.p/gameEngineGUI_EngineStatisticsImgui.cpp.o -c ../jetmoon/gameEngineGUI/EngineStatisticsImgui.cpp",
+    "file": "../jetmoon/gameEngineGUI/EngineStatisticsImgui.cpp",
+    "output": "jetmoon/libjetmoon.a.p/gameEngineGUI_EngineStatisticsImgui.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/gameEngineGUI_Gizmos.cpp.o -MF jetmoon/libjetmoon.a.p/gameEngineGUI_Gizmos.cpp.o.d -o jetmoon/libjetmoon.a.p/gameEngineGUI_Gizmos.cpp.o -c ../jetmoon/gameEngineGUI/Gizmos.cpp",
+    "file": "../jetmoon/gameEngineGUI/Gizmos.cpp",
+    "output": "jetmoon/libjetmoon.a.p/gameEngineGUI_Gizmos.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/gameEngineGUI_EditorHierarchyPanel.cpp.o -MF jetmoon/libjetmoon.a.p/gameEngineGUI_EditorHierarchyPanel.cpp.o.d -o jetmoon/libjetmoon.a.p/gameEngineGUI_EditorHierarchyPanel.cpp.o -c ../jetmoon/gameEngineGUI/EditorHierarchyPanel.cpp",
+    "file": "../jetmoon/gameEngineGUI/EditorHierarchyPanel.cpp",
+    "output": "jetmoon/libjetmoon.a.p/gameEngineGUI_EditorHierarchyPanel.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/gameEngineGUI_EditorComponentPanel.cpp.o -MF jetmoon/libjetmoon.a.p/gameEngineGUI_EditorComponentPanel.cpp.o.d -o jetmoon/libjetmoon.a.p/gameEngineGUI_EditorComponentPanel.cpp.o -c ../jetmoon/gameEngineGUI/EditorComponentPanel.cpp",
+    "file": "../jetmoon/gameEngineGUI/EditorComponentPanel.cpp",
+    "output": "jetmoon/libjetmoon.a.p/gameEngineGUI_EditorComponentPanel.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/gameEngineGUI_EditorFileExplorerPanel.cpp.o -MF jetmoon/libjetmoon.a.p/gameEngineGUI_EditorFileExplorerPanel.cpp.o.d -o jetmoon/libjetmoon.a.p/gameEngineGUI_EditorFileExplorerPanel.cpp.o -c ../jetmoon/gameEngineGUI/EditorFileExplorerPanel.cpp",
+    "file": "../jetmoon/gameEngineGUI/EditorFileExplorerPanel.cpp",
+    "output": "jetmoon/libjetmoon.a.p/gameEngineGUI_EditorFileExplorerPanel.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/gameEngineGUI_EditorTopPanel.cpp.o -MF jetmoon/libjetmoon.a.p/gameEngineGUI_EditorTopPanel.cpp.o.d -o jetmoon/libjetmoon.a.p/gameEngineGUI_EditorTopPanel.cpp.o -c ../jetmoon/gameEngineGUI/EditorTopPanel.cpp",
+    "file": "../jetmoon/gameEngineGUI/EditorTopPanel.cpp",
+    "output": "jetmoon/libjetmoon.a.p/gameEngineGUI_EditorTopPanel.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/gameEngineGUI_EditorSubTopPanel.cpp.o -MF jetmoon/libjetmoon.a.p/gameEngineGUI_EditorSubTopPanel.cpp.o.d -o jetmoon/libjetmoon.a.p/gameEngineGUI_EditorSubTopPanel.cpp.o -c ../jetmoon/gameEngineGUI/EditorSubTopPanel.cpp",
+    "file": "../jetmoon/gameEngineGUI/EditorSubTopPanel.cpp",
+    "output": "jetmoon/libjetmoon.a.p/gameEngineGUI_EditorSubTopPanel.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/gameEngineGUI_EditorViewPanel.cpp.o -MF jetmoon/libjetmoon.a.p/gameEngineGUI_EditorViewPanel.cpp.o.d -o jetmoon/libjetmoon.a.p/gameEngineGUI_EditorViewPanel.cpp.o -c ../jetmoon/gameEngineGUI/EditorViewPanel.cpp",
+    "file": "../jetmoon/gameEngineGUI/EditorViewPanel.cpp",
+    "output": "jetmoon/libjetmoon.a.p/gameEngineGUI_EditorViewPanel.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/clipper_clipper.cpp.o -MF jetmoon/libjetmoon.a.p/clipper_clipper.cpp.o.d -o jetmoon/libjetmoon.a.p/clipper_clipper.cpp.o -c ../jetmoon/clipper/clipper.cpp",
+    "file": "../jetmoon/clipper/clipper.cpp",
+    "output": "jetmoon/libjetmoon.a.p/clipper_clipper.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/polypartition_polypartition.cpp.o -MF jetmoon/libjetmoon.a.p/polypartition_polypartition.cpp.o.d -o jetmoon/libjetmoon.a.p/polypartition_polypartition.cpp.o -c ../jetmoon/polypartition/polypartition.cpp",
+    "file": "../jetmoon/polypartition/polypartition.cpp",
+    "output": "jetmoon/libjetmoon.a.p/polypartition_polypartition.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/imgui_imgui_impl_glfw.cpp.o -MF jetmoon/libjetmoon.a.p/imgui_imgui_impl_glfw.cpp.o.d -o jetmoon/libjetmoon.a.p/imgui_imgui_impl_glfw.cpp.o -c ../jetmoon/imgui/imgui_impl_glfw.cpp",
+    "file": "../jetmoon/imgui/imgui_impl_glfw.cpp",
+    "output": "jetmoon/libjetmoon.a.p/imgui_imgui_impl_glfw.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/imgui_imgui_impl_opengl3.cpp.o -MF jetmoon/libjetmoon.a.p/imgui_imgui_impl_opengl3.cpp.o.d -o jetmoon/libjetmoon.a.p/imgui_imgui_impl_opengl3.cpp.o -c ../jetmoon/imgui/imgui_impl_opengl3.cpp",
+    "file": "../jetmoon/imgui/imgui_impl_opengl3.cpp",
+    "output": "jetmoon/libjetmoon.a.p/imgui_imgui_impl_opengl3.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/imgui_imgui.cpp.o -MF jetmoon/libjetmoon.a.p/imgui_imgui.cpp.o.d -o jetmoon/libjetmoon.a.p/imgui_imgui.cpp.o -c ../jetmoon/imgui/imgui.cpp",
+    "file": "../jetmoon/imgui/imgui.cpp",
+    "output": "jetmoon/libjetmoon.a.p/imgui_imgui.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/imgui_imgui_draw.cpp.o -MF jetmoon/libjetmoon.a.p/imgui_imgui_draw.cpp.o.d -o jetmoon/libjetmoon.a.p/imgui_imgui_draw.cpp.o -c ../jetmoon/imgui/imgui_draw.cpp",
+    "file": "../jetmoon/imgui/imgui_draw.cpp",
+    "output": "jetmoon/libjetmoon.a.p/imgui_imgui_draw.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/imgui_imgui_tables.cpp.o -MF jetmoon/libjetmoon.a.p/imgui_imgui_tables.cpp.o.d -o jetmoon/libjetmoon.a.p/imgui_imgui_tables.cpp.o -c ../jetmoon/imgui/imgui_tables.cpp",
+    "file": "../jetmoon/imgui/imgui_tables.cpp",
+    "output": "jetmoon/libjetmoon.a.p/imgui_imgui_tables.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/imgui_imgui_widgets.cpp.o -MF jetmoon/libjetmoon.a.p/imgui_imgui_widgets.cpp.o.d -o jetmoon/libjetmoon.a.p/imgui_imgui_widgets.cpp.o -c ../jetmoon/imgui/imgui_widgets.cpp",
+    "file": "../jetmoon/imgui/imgui_widgets.cpp",
+    "output": "jetmoon/libjetmoon.a.p/imgui_imgui_widgets.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Ijetmoon/libjetmoon.a.p -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ jetmoon/libjetmoon.a.p/imgui_imgui_demo.cpp.o -MF jetmoon/libjetmoon.a.p/imgui_imgui_demo.cpp.o.d -o jetmoon/libjetmoon.a.p/imgui_imgui_demo.cpp.o -c ../jetmoon/imgui/imgui_demo.cpp",
+    "file": "../jetmoon/imgui/imgui_demo.cpp",
+    "output": "jetmoon/libjetmoon.a.p/imgui_imgui_demo.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Igame/libgameSystems.a.p -Igame -I../game -Ijetmoon -I../jetmoon -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -fPIC -DGLEW_STATIC -MD -MQ game/libgameSystems.a.p/WorldCreator.cpp.o -MF game/libgameSystems.a.p/WorldCreator.cpp.o.d -o game/libgameSystems.a.p/WorldCreator.cpp.o -c ../game/WorldCreator.cpp",
+    "file": "../game/WorldCreator.cpp",
+    "output": "game/libgameSystems.a.p/WorldCreator.cpp.o"
+  },
+  {
+    "directory": "/home/ivan/.local/share/userSpace/documentos/cpp/jetmoon/builddir",
+    "command": "clang++ -Imain.p -I. -I.. -Ijetmoon -I../jetmoon -Igame -I../game -I../subprojects/glew-2.1.0/include -Isubprojects/glm-0.9.9.8 -I../subprojects/glm-0.9.9.8 -I../subprojects/box2d-2.4.1/include -I../subprojects/glfw/include -Isubprojects/glfw/src -I../subprojects/glfw/src -Isubprojects/eigen-3.4.0 -I../subprojects/eigen-3.4.0 -fcolor-diagnostics -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -std=c++17 -stdlib=libc++ -Wno-everything -stdlib=libc++ -DGLEW_STATIC -MD -MQ main.p/main.cpp.o -MF main.p/main.cpp.o.d -o main.p/main.cpp.o -c ../main.cpp",
+    "file": "../main.cpp",
+    "output": "main.p/main.cpp.o"
+  }
+]
