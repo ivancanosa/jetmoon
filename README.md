@@ -30,7 +30,7 @@ It has been tested on Windows and Linux. With linux, you have to use "make" to c
 It is necessary to have make, meson, clang, and libc++. These are the following commands:
 - make build: Compile the project
 - make run: Run the project
-- make debug: Run the project in debug mode. There is a stacktrace a segfault happens.
+- make debug: Run the project in debug mode. There is a stacktrace if a segfault happens.
 - make release: Compile the project for the release version
 - make runRelease: Run the release compiled version
 - make clean: Delete all compiled files
