@@ -135,6 +135,21 @@ struct SemanticInput{
 		return false;
 	}
 
+	bool isInputDownOnce(int id){
+		bool trueInput = isInputDown(id);
+		bool canGetInput = isInputDownOnceMap[id];
+		bool returnValue = trueInput && canGetInput;
+		isInputDownOnceMap[id] = (!trueInput && canGetInput) || (!trueInput && !canGetInput);
+		return returnValue;
+	}
+
+	bool isInputUpOnce(int id){
+		bool trueInput = isInputUp(id);
+		bool canGetInput = isInputUpOnceMap[id];
+		bool returnValue = trueInput && canGetInput;
+		isInputUpOnceMap[id] = (!trueInput && canGetInput) || (!trueInput && !canGetInput);
+		return returnValue;
+	}
 
 	float getInputFloat(int id){
 		double value = 0.;
@@ -163,6 +178,8 @@ struct SemanticInput{
 
 	std::array<MappingCell, 128> semanticToPhysicalMap{};
 	std::array<MappingCell, 128> physicalToSemanticMap{};
+	std::array<bool, 128> isInputDownOnceMap{true};
+	std::array<bool, 128> isInputUpOnceMap{true};
 
 	GLFWwindow* window;
 	GLFWgamepadstate gamepadState;
